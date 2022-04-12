@@ -7,15 +7,15 @@
 
 - 🎓 I'm currently a Computer Science and Business Infromation Systems Double Major Student @Murdoch University
 
-- 🌱 I’m currently trying to get better a Frontend with React as I'm fairly confident in Backend Development 
+- 🌱 I’m currently trying to get better a Frontend with React as I'm fairly confident in Backend Development
 
-- 💼 SOA Analyst and Developer at **DXC Technology**
+- 💼 Previously interned as a Process Developer & Data Scientist **FedEx**
 
-- 🔭 I’m currently working on [todo-map](https://github.com/Xandowski/todo-map)
+- 🔭 I’m currently working on a project to fetch and analyze tweets using the Twitter API
 
-- 💬 Ask me about **react and python**
+- 💬 Ask me about **React and Node.js**
 
-- 👨‍💻 My projects are available on [Github](https://github.com/Xandowski?tab=repositories)
+- 👨‍💻 My projects are available on [Github](https://github.com/emmanuelorobinson?tab=repositories)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
