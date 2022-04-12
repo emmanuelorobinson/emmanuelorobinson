@@ -5,11 +5,11 @@
 
 <img align="right" src="https://media.giphy.com/media/WoubLJE2HwyHg1qa9Z/giphy.gif" width="300"/>
 
-- 🎓 I'm currently a Computer Science and Business Infromation Systems Double Major Student @Murdoch University
+- 🎓 I'm currently a Computer Science and Business Infromation Systems Double Major Student at Murdoch University
 
 - 🌱 I’m currently trying to get better a Frontend with React as I'm fairly confident in Backend Development
 
-- 💼 Previously interned as a Process Developer & Data Scientist **FedEx**
+- 💼 Previously interned as a Process Developer & Data Scientist at **FedEx**
 
 - 🔭 I’m currently working on a project to fetch and analyze tweets using the Twitter API
 
