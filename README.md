@@ -7,7 +7,7 @@
 
 - 🎓 I'm currently a Computer Science and Business Infromation Systems Double Major Student at Murdoch University
 
-- 🌱 I’m currently trying to get better a Frontend with React as I'm fairly confident in Backend Development
+- 🌱 I’m currently trying to get better at Frontend with React as I'm fairly confident in Backend Development
 
 - 💼 Previously interned as a Process Developer & Data Scientist at **FedEx**
 
