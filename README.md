@@ -7,11 +7,11 @@
 
 - 🎓 I'm currently a Computer Science and Business Infromation Systems Double Major Student at Murdoch University
 
-- 🌱 I’m currently trying to get better at Frontend with React as I'm fairly confident in Backend Development
+- 🌱 I’m currently Exploring iOS Developement with Swift (SwfitUI & UIKit)
 
 - 💼 Previously interned as a Process Developer & Data Scientist at **FedEx**
 
-- 🔭 I’m currently working on a project to fetch and analyze tweets using the Twitter API
+- 🔭 I work on multiple side projects to polish my frontend skills with React
 
 - 💬 Ask me about **React and Node.js**
 
