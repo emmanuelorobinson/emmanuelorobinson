@@ -5,17 +5,23 @@
 
 <img align="right" src="https://media.giphy.com/media/WoubLJE2HwyHg1qa9Z/giphy.gif" width="300"/>
 
-- 🎓 I'm currently a Computer Science and Business Infromation Systems Double Major Student at Murdoch University
+🎓 I'm currently a Computer Science and Business Infromation Systems Double Major Student at Murdoch University
 
-- 🌱 I’m currently Exploring iOS Developement with Swift (SwfitUI & UIKit)
+💼 Work experience: <br>
+- **Research & Development Engineer intern at Dubai Electricity and Water Authority (DEWA)** - AI/ML and Full Stack Development. [Autum 2023]
+- **Software Engineer intern at WeDance** - Full Stack Development. [Summer 2022 - Winter 2022]
+- **Software Engineer intern at Take.Capial** - Full Stack Development. [Autum 2022 - Summer 2022]
+- **Data Science intern at FedEx** - Data Science and Process Development. [Summer 2021 - Autumn 2022]
 
-- 💼 Previously interned as a Process Developer & Data Scientist at **FedEx**
+🌱 Interests:
+- Full Stack Development
+- Mobile Development
+- Machine Learning
+- Data Science
 
-- 🔭 I work on multiple side projects to polish my frontend skills with React
+📝 Stop by my blog [https://blog.emmanuelrobinson.dev/](https://blog.emmanuelrobinson.dev/)
 
-- 💬 Ask me about **React and Node.js**
-
-- 👨‍💻 My projects are available on [Github](https://github.com/emmanuelorobinson?tab=repositories)
+👨‍💻 My projects are available on [Github](https://github.com/emmanuelorobinson?tab=repositories)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
