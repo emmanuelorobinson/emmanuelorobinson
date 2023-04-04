@@ -3,9 +3,8 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Ejakpomewhe</h1>
 <!-- <h3 align="center">I'm curious and always looking to learn something new</h3> -->
 
-<img align="center" style="margin-left:auto; margin-right:auto;" src="https://media.giphy.com/media/WoubLJE2HwyHg1qa9Z/giphy.gif" width="300"/>
+<!-- <img align="center" style="margin-left:auto; margin-right:auto;" src="https://media.giphy.com/media/WoubLJE2HwyHg1qa9Z/giphy.gif" width="300"/> -->
 
-<br>
 🎓 I'm currently a Computer Science and Business Infromation Systems Double Major Student at Murdoch University
 
 💼 Work experience: <br>
