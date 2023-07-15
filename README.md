@@ -9,7 +9,7 @@
 
 💼 Work experience: <br>
 - **Software Engineer at Dubai Civil Aviation Authority (DCAA)** - Front End Development. [Summer 2023 - Present]
-- **Research & Development Engineer intern at Dubai Electricity and Water Authority (DEWA)** - AI/ML and Full Stack Development. [Autum 2023]
+- **Research & Development Engineer intern at Dubai Electricity and Water Authority (DEWA)** - AI/ML and Full Stack Development. [Autum 2023 - Summer 2023]
 - **Software Engineer intern at WeDance** - Full Stack Development. [Summer 2022 - Winter 2022]
 - **Software Engineer intern at Take.Capial** - Full Stack Development. [Autum 2022 - Summer 2022]
 - **Data Science intern at FedEx** - Data Science and Process Development. [Summer 2021 - Autumn 2022]
