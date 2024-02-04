@@ -5,7 +5,7 @@
 
 <!-- <img align="center" style="margin-left:auto; margin-right:auto;" src="https://media.giphy.com/media/WoubLJE2HwyHg1qa9Z/giphy.gif" width="300"/> -->
 
-🎓 MSc Software Engineering - Heriot-Watt University
+🎓 MSc Software Engineering - Heriot-Watt University <br>
 🎓 BSc Computer Science and Business Information Systems Double Major - Murdoch University
 
 💼 Work experience: <br>
