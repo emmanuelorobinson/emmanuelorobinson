@@ -9,7 +9,7 @@
 🎓 BSc Computer Science and Business Information Systems Double Major - Murdoch University
 
 💼 Work experience: <br>
-- **Software Engineer at Dubai Civil Aviation Authority (DCAA)** - Front End Development. [Summer 2023 - Present]
+- **Software Engineer at Dubai Civil Aviation Authority (DCAA)** - Full Stack Development + AI. [Summer 2023 - Present]
 - **Research & Development Engineer intern at Dubai Electricity and Water Authority (DEWA)** - AI/ML and Full Stack Development. [Autum 2023 - Summer 2023]
 - **Software Engineer intern at WeDance** - Full Stack Development. [Summer 2022 - Winter 2022]
 - **Software Engineer intern at Take.Capital** - Full Stack Development. [Autum 2022 - Summer 2022]
@@ -21,10 +21,10 @@
 - AI
 
 🥞 Stack:
-- **Working**:  Typescript, Ionic, Angular, Python, Azure AI
+- **Working**:  Typescript, Ionic, Angular, Python (Flask), AI (RAG, LLM)
 - **Swear By**:  React, React Native, Java Spring Boot, Node + Express, PostgreSQL
 - **Latest Addiction**:  Kotlin + Jetpack Compose (Android Development)
-- **Familiar With**:  AWS, Flask, C++, Docker, MongoDB
+- **Familiar With**:  AWS, C++, .NET, Docker, MongoDB
 <!-- 📝 Stop by my blog [https://blog.emmanuelrobinson.dev/](https://blog.emmanuelrobinson.dev/)
 
 👨‍💻 My projects are available on [Github](https://github.com/emmanuelorobinson?tab=repositories)-->
