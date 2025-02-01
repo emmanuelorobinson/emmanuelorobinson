@@ -21,7 +21,7 @@
 - AI
 
 🥞 Stack:
-- **Working**:  Typescript, Ionic, Angular, Python (Flask), AI (RAG, LLM)
+- **Working**:  Typescript, Ionic, Rust, Tauri, Angular, Python (Flask), AI (RAG, LLM)
 - **Swear By**:  React, React Native, Java Spring Boot, Node + Express, PostgreSQL
 - **Latest Addiction**:  Kotlin + Jetpack Compose (Android Development)
 - **Familiar With**:  AWS, C++, C# (.NET), Docker, RabbitMQ, MongoDB
