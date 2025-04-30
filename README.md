@@ -5,15 +5,15 @@
 
 <!-- <img align="center" style="margin-left:auto; margin-right:auto;" src="https://media.giphy.com/media/WoubLJE2HwyHg1qa9Z/giphy.gif" width="300"/> -->
 
-🎓 MSc Software Engineering - Heriot-Watt University <br>
-🎓 BSc Computer Science and Business Information Systems Double Major - Murdoch University
-
 💼 Work experience: <br>
 - **Software Engineer at Dubai Civil Aviation Authority (DCAA)** - Full Stack Development + AI. [Summer 2023 - Present]
 - **Research & Development Engineer intern at Dubai Electricity and Water Authority (DEWA)** - AI/ML and Full Stack Development. [Autum 2023 - Summer 2023]
 - **Software Engineer intern at WeDance** - Full Stack Development. [Summer 2022 - Winter 2022]
 - **Software Engineer intern at Take.Capital** - Full Stack Development. [Autum 2022 - Summer 2022]
 - **Data Science intern at FedEx** - Data Science and Process Development. [Summer 2021 - Autumn 2022]
+
+🎓 MSc Software Engineering - Heriot-Watt University <br>
+🎓 BSc Computer Science and Business Information Systems Double Major - Murdoch University
 
 🌱 Interests:
 - Full Stack Development
