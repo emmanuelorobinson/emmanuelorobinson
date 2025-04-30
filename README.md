@@ -12,8 +12,10 @@
 - **Software Engineer intern at Take.Capital** - Full Stack Development. [Autum 2022 - Summer 2022]
 - **Data Science intern at FedEx** - Data Science and Process Development. [Summer 2021 - Autumn 2022]
 
+
 🎓 MSc Software Engineering - Heriot-Watt University <br>
 🎓 BSc Computer Science and Business Information Systems Double Major - Murdoch University
+
 
 🌱 Interests:
 - Full Stack Development
