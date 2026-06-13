@@ -24,9 +24,9 @@
 
 🥞 Stack:
 - **Working**:  Typescript, Ionic, Rust, Tauri, Angular, Python (Flask), AI (RAG, LLM)
-- **Swear By**:  React, React Native, Java Spring Boot, Node + Express, PostgreSQL
-- **Latest Addiction**:  Kotlin + Jetpack Compose (Android Development)
-- **Familiar With**:  AWS, C++, C# (.NET), Docker, RabbitMQ, MongoDB
+- **Swear By**:  React, React Native, Bun + Hono, PostgreSQL
+- **Latest Addiction**:  Go
+- **Familiar With**:  AWS, C++, C# (.NET), Java Spring Boot Docker, RabbitMQ, MongoDB
 <!-- 📝 Stop by my blog [https://blog.emmanuelrobinson.dev/](https://blog.emmanuelrobinson.dev/)
 
 👨‍💻 My projects are available on [Github](https://github.com/emmanuelorobinson?tab=repositories)-->
