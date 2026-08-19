@@ -5,28 +5,31 @@
 
 <!-- <img align="center" style="margin-left:auto; margin-right:auto;" src="https://media.giphy.com/media/WoubLJE2HwyHg1qa9Z/giphy.gif" width="300"/> -->
 
+<!--
 💼 Work experience: <br>
 - **Software Engineer at Dubai Civil Aviation Authority (DCAA)** - Full Stack Development + AI. [Summer 2023 - Present]
 - **Research & Development Engineer intern at Dubai Electricity and Water Authority (DEWA)** - AI/ML and Full Stack Development. [Autum 2023 - Summer 2023]
 - **Software Engineer intern at WeDance** - Full Stack Development. [Summer 2022 - Winter 2022]
-- **Software Engineer intern at Take.Capital** - Full Stack Development. [Autum 2022 - Summer 2022]
 - **Data Science intern at FedEx** - Data Science and Process Development. [Summer 2021 - Autumn 2022]
 
 <br>
 🎓 MSc Software Engineering - Heriot-Watt University <br>
 🎓 BSc Computer Science and Business Information Systems Double Major - Murdoch University <br>
 <br>
+-->
 
+<!--
 🌱 Interests:
 - Full Stack Development
 - Mobile Development
-- AI
+- AI -->
 
+<!--
 🥞 Stack:
 - **Working**:  Typescript, Ionic, Rust, Tauri, Angular, Python (Flask), AI (RAG, LLM)
 - **Swear By**:  React, React Native, Bun + Hono, PostgreSQL
 - **Latest Addiction**:  Go
-- **Familiar With**:  AWS, C++, C# (.NET), Java Spring Boot Docker, RabbitMQ, MongoDB
+- **Familiar With**:  AWS, C++, C# (.NET), Java Spring Boot Docker, RabbitMQ, MongoDB -->
 <!-- 📝 Stop by my blog [https://blog.emmanuelrobinson.dev/](https://blog.emmanuelrobinson.dev/)
 
 👨‍💻 My projects are available on [Github](https://github.com/emmanuelorobinson?tab=repositories)-->
