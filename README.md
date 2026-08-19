@@ -5,6 +5,9 @@
 
 <!-- <img align="center" style="margin-left:auto; margin-right:auto;" src="https://media.giphy.com/media/WoubLJE2HwyHg1qa9Z/giphy.gif" width="300"/> -->
 
+<p>⚡ If I'm not committing here, I'm probably committing somewhere you can't see.</p>
+
+
 <!--
 💼 Work experience: <br>
 - **Software Engineer at Dubai Civil Aviation Authority (DCAA)** - Full Stack Development + AI. [Summer 2023 - Present]
@@ -34,7 +37,7 @@
 
 👨‍💻 My projects are available on [Github](https://github.com/emmanuelorobinson?tab=repositories)-->
 
-<h2 align="left">Connect with me:</h2>
+<!-- <h2 align="left">Connect with me:</h2> -->
 <p align="left">
 <a href="https://www.linkedin.com/in/emmanuelejakpomewhe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel-robinson" height="30" width="40" />
 </p>
